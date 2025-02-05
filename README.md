@@ -42,5 +42,3 @@ To execute the data analysis pipeline:
 ```sh
 git clone https://github.com/semajrd1/Data-Analysis-and-Plotting.git
 cd Data-Analysis-and-Plotting
-pip install -r requirements.txt
-python analysis_script.py
